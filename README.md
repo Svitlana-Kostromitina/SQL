@@ -1,4 +1,6 @@
-# SQL
+# SQL    
+
+### [Приклади з курсів](https://github.com/Svitlana-Kostromitina/SQL-Examples-from-courses/blob/main/README.md)
 
 **SQL (Structured query language — мова структурованих запитів)** — Інформаційно-логічна мова, призначена для опису, зміни та вилучення даних, що зберігаються в реляційних базах даних.
 
